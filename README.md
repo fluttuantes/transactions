@@ -1,16 +1,31 @@
-# transações
-
-Um novo projeto Flutter.
-
-## Começando
+# Aplicativo de Transações
+Projeto Flutter DOJO dos membros do Fluttuantes do Cerrado - FlutterTO.
+# Projeto em Flutter 🚀
+# 🚧 Em construção 🚧
 
 Este projeto é um ponto de partida para uma aplicação Flutter.
+ ## Índice para construir
 
-Alguns recursos para você começar se este for seu primeiro projeto Flutter:
+- [Home Page](#home)
+- [History Page](#history)
+- [Cards Page](#cards)
+- [Profile Page](#profile)
+ 
 
-- [Lab: Escreva seu primeiro aplicativo Flutter](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: exemplos úteis do Flutter](https://flutter.dev/docs/cookbook)
 
-Para obter ajuda para começar a usar o Flutter, consulte nosso
+### Features
+
+- [x] Home - em construção 🚧
+- [ ] History
+- [ ] Cards
+- [ ] Profile
+
+## Mockups construída
+
+
+![UI](screens/home.jpg)
+ 
+
+Para obter ajuda para começar a usar o Flutter, consulte a
 [documentação online](https://flutter.dev/docs), que oferece tutoriais,
 exemplos, orientação sobre desenvolvimento móvel e uma referência completa de API.
