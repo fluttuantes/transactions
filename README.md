@@ -22,8 +22,8 @@ Este projeto é um ponto de partida para uma aplicação Flutter.
 
 ## Mockups construída
 
-
-![UI](screens/home.jpg)
+<img src = "screens/home.jpg" width="300">
+ 
  
 
 Para obter ajuda para começar a usar o Flutter, consulte a
