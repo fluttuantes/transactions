@@ -23,7 +23,7 @@ Este projeto é um ponto de partida para uma aplicação Flutter.
 ## Mockups construída
 
 
-![UI](screens/home.jpg = 250x)
+![UI](screens/home.jpg)
  
 
 Para obter ajuda para começar a usar o Flutter, consulte a
